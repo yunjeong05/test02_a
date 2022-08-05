@@ -1,0 +1,6 @@
+class Calculator{
+    public static void main(String[] args){
+        int a = 10, b = 20;
+        System.out.println("덧셈 결과: " + (a+b));
+    }
+}
